@@ -1,7 +1,8 @@
 package com.paipianwang.pat.facade.employee.entity;
 
 import java.util.List;
-import com.paipianwang.pat.facade.right.entity.Customer;
+
+import com.paipianwang.pat.common.session.Customer;
 /**
  * 职工表
  */
